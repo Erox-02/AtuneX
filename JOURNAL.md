@@ -40,3 +40,10 @@ ok now i wrote a minimal main.rs and tried to test pid with it but rust cant fin
 
 ok it works now lol . maybe sleep wasnt optional !
 
+ok now gonna work on sim , at first eliminated old sim b adding ~ before it , it will waver his will lol .
+
+wait matte i shld have gotten 1000 samples not 1001 huh 
+
+![](assets/err?.png)
+
+anyways just +-1 isnt  an err wait lemme rerun , oh same result , gonna fix it later 
