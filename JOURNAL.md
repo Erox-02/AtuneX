@@ -27,3 +27,10 @@ but wait the measurments are off track , looks like my fake motor rejected my fa
 ## Oct 1
 
 ok so today gonna break things , into modules and really break it as i suck lol . ok so gonna make main.rs , pid.rs , sim.rs and scan.rs tht shld be enough , right? yeah probably enough after the simulation works i will go ahead and switch the sim.rs with something like penetrate_esp_code_hahaha.rs wait i forgot to put grave accent or whatever "`" <- this thing is called , like hell i care i was doin tht on the first journal .
+
+ok so now the self procalimed psuedo god of destruction gonna break sim.rs hahaha i am so evil , breaking working code is so fun , fixing isnt .
+
+oh its pretty easy , copy frm sim and paste on pid lol .
+
+ok now i wrote a minimal main.rs and tried to test pid with it but rust cant find it hm ohh i forgot to rm [[bin]] in my cargo lol
+ 
