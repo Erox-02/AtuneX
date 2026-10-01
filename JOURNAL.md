@@ -47,3 +47,9 @@ wait matte i shld have gotten 1000 samples not 1001 huh
 ![](assets/err?.png)
 
 anyways just +-1 isnt  an err wait lemme rerun , oh same result , gonna fix it later 
+
+okk i added metrics.rs  
+
+![](assets/metric.png)
+
+ok metric works fine , just tht 1001 sample sickens me lol
