@@ -34,3 +34,9 @@ oh its pretty easy , copy frm sim and paste on pid lol .
 
 ok now i wrote a minimal main.rs and tried to test pid with it but rust cant find it hm ohh i forgot to rm [[bin]] in my cargo lol
  
+ why is cargo still acting like dora the expolrer? cant he see my main.rs is right there on src , wait wait maybe i am the shit head lemme run pwd , HOLY SHIT ,its on root not src how can one be such a fool?
+
+![](assets/fool.png)
+
+ok it works now lol . maybe sleep wasnt optional !
+
