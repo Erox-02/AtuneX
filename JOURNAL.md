@@ -79,3 +79,7 @@ hey hey am i dreaming? how the hell 0.00.. err? nah something is probably off i 
 but i wanna live inside this dream , 0% not even 0.0001% its **HELLA 0%** ahhhhh .
 
 so needa write a readme now , ah how boaring i wd rather rice my hyprland but i need readme looks like cant do anything uf. Alos i forgot to del the ~sim.rs maybe i will let it live? hell nah i am merciless .
+
+done 
+
+Wait hell naw i just forgot to add license on cargo.toml ok i get it my fault but then why didnt --dry-run didnt mention it ahhh idc lemme push .
