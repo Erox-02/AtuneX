@@ -1,7 +1,10 @@
 [package]
-name = "AtuneX"
+name = "atunex"
 version = "0.1.0"
 edition = "2024"
+description = "A rustic cli tool for experimenting with automatic pid tuning."
+readme = "README.md"
+repository = "https://github.com/erox-02/AtuneX"
+homepage = "https://github.com/erox-02/AtuneX"
 
 [dependencies]
-
