@@ -4,6 +4,10 @@ Atunex is a rust based cli qol tool made for embedded guys like , who hates to t
 
 > Its currently just the simulation version , i made it as working poc , on next ship i will make it working on real hardware
 
+it is avalible on crates.io ->
+
+[link to crates](https://crates.io/crates/atunex)
+
 ## Desc
 
 It is a pid helper tool , currently it is not applicable on real hardware as current version is only a simulation , it runs experiment , measures the result , tweaks the vals and then repeat a few times and find the closest pid with minimal err (though somehow its currently giving me 0.0% err and idk why?) .
