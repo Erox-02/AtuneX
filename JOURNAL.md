@@ -44,7 +44,7 @@ ok now gonna work on sim , at first eliminated old sim b adding ~ before it , it
 
 wait matte i shld have gotten 1000 samples not 1001 huh 
 
-![](assets/err?.png)
+![](assets/err.png)
 
 anyways just +-1 isnt  an err wait lemme rerun , oh same result , gonna fix it later 
 
