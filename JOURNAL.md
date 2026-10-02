@@ -53,3 +53,8 @@ okk i added metrics.rs
 ![](assets/metric.png)
 
 ok metric works fine , just tht 1001 sample sickens me lol
+
+
+## Oct 2
+
+Yo here we again , today gonna write the scan.rs and do a lot of other work tht i havent yet decided . The scan rs will be one of the most important part of the atunex poc , as in simulation i wont use any ml or maybe i will anyways lemme describe my mental model of scan.rs , matte , why the hell did i name it scan.rs? its doin a lot of heavy work and the name will make it feel like a daemon while it is the de itself lol , so i feel pity and gonna name it . Oh perfect i got a good name eq.rs as the equalizer.rs shrt form , perfect as it flattens the err and protects the equilibrium , looks like i am influenced frm rimuru .
