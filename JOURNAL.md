@@ -62,4 +62,20 @@ Yo here we again , today gonna write the scan.rs and do a lot of other work tht 
 i made the architecture pretty easy run the simulation , check the error , change one pid value , run it again and store what happened . basically fake sim but with structs and f64 .Frankly made an Test struct to store kp ki kd , the error and the metrics because if i am gonna experiment then i better actually remember what tf happened .
 
 ao its like test in fake world , measure , compare , store , compare , store .... pick the best but but i am doing it in simulation because it is just a poc before i try on real hardware . hmhm ! 
-now time to upgradde the main.rs and ship the poc 
+now time to upgradde the main.rs and ship the poc , rejoice to the self proclaimed psuedo god of bugs . 
+
+heh i knew it , thts why my name is self proclaimed psuedo god of bug 
+
+![](assets/iknew.png)
+
+without a ownershit battle how can i even compile?
+
+oh fixed it by using another function , tht ownership bug wasnt even considered as a sub boss , let final boss be alone .
+
+
+![](assets/wow.png) 
+hey hey am i dreaming? how the hell 0.00.. err? nah something is probably off i can gaurentee my code is never perfect . huh nice try lil bug i will fix you .
+
+but i wanna live inside this dream , 0% not even 0.0001% its **HELLA 0%** ahhhhh .
+
+so needa write a readme now , ah how boaring i wd rather rice my hyprland but i need readme looks like cant do anything uf. Alos i forgot to del the ~sim.rs maybe i will let it live? hell nah i am merciless .
