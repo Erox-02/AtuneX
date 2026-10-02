@@ -58,3 +58,8 @@ ok metric works fine , just tht 1001 sample sickens me lol
 ## Oct 2
 
 Yo here we again , today gonna write the scan.rs and do a lot of other work tht i havent yet decided . The scan rs will be one of the most important part of the atunex poc , as in simulation i wont use any ml or maybe i will anyways lemme describe my mental model of scan.rs , matte , why the hell did i name it scan.rs? its doin a lot of heavy work and the name will make it feel like a daemon while it is the de itself lol , so i feel pity and gonna name it . Oh perfect i got a good name eq.rs as the equalizer.rs shrt form , perfect as it flattens the err and protects the equilibrium , looks like i am influenced frm rimuru .
+
+i made the architecture pretty easy run the simulation , check the error , change one pid value , run it again and store what happened . basically fake sim but with structs and f64 .Frankly made an Test struct to store kp ki kd , the error and the metrics because if i am gonna experiment then i better actually remember what tf happened .
+
+ao its like test in fake world , measure , compare , store , compare , store .... pick the best but but i am doing it in simulation because it is just a poc before i try on real hardware . hmhm ! 
+now time to upgradde the main.rs and ship the poc 
